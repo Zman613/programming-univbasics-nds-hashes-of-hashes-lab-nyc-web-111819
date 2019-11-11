@@ -6,6 +6,7 @@ def naming_system
           :sub_category => {
             :sub_category => {
               :sub_category => {
+                :sub_category => nil,
                 :label => "Species"
               },
               :label => "Genus"
